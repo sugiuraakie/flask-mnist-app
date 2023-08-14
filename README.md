@@ -7,3 +7,4 @@
 # flask_mnist-app
 test
 test
+test
